@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Github**
 
-- 📝 I write poetry on wattpad [https://www.wattpad.com/user/ObsidianMoonchild](https://www.wattpad.com/user/ObsidianMoonchild)
+- 📝 I write poetry on all poetry:[ https://allpoetry.com/Obsidian_Moonchild]
 
 - 💬 Ask me about **Java, python and javascript**
 
