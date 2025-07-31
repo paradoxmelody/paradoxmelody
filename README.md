@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paradox Melody</h1>
-<h3 align="center">I'm passionate about frontend development, game development and data science.</h3>
+<h3 align="center">I'm passionate about fullstack development, game development and data science.</h3>
 
 - 🔭 I’m currently working on **In Love**
 
