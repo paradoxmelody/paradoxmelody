@@ -13,7 +13,7 @@
 
 - 📄 CERTIFICATES [https://www.sololearn.com/certificates/CC-HSIAFMUU](https://www.sololearn.com/certificates/CC-HSIAFMUU)
 
-- ⚡ Fun fact **I DO VARIOUS ART FORMS INCLUDING DRAWING, MUSIC PRODUCTION AND OTHERS.**
+- ⚡ Fun fact **I am also a rapper, a visual artist, a creative/writer, a music producer, a scientist and a doner kebab**
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP._OQEK4UpZblm-U9Ay670uAHaE5%26pid%3DApi&f=1&ipt=c024cac3ccbea4a6a6baf863dc0a36265b9b0ff12cc382d554e904966b2c5231&ipo=images" width= "400" height="400" />
 
 <h3 align="left">Connect with me:</h3>
