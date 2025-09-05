@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Paradox Melody</h1>
 <h3 align="center">I'm passionate about fullstack development, game development and data science.</h3>
 
-- 🔭 I’m currently working on **In Love**
+- 🔭 I’m currently working on **Myself**
 
-- 🌱 I’m currently learning **Data science, react and others.**
+- 🌱 I’m currently learning **Machine Learning, Typescript and others.**
 
 - 👯 I’m looking to collaborate on **Github**
 
 - 📝 I write poetry on all poetry:[ https://allpoetry.com/Obsidian_Moonchild]
 
-- 💬 Ask me about **Java, python and javascript**
+- 💬 Ask me about **Fullstack development -  Machine Learning **
 
 - 📄 CERTIFICATES [https://www.sololearn.com/certificates/CC-HSIAFMUU](https://www.sololearn.com/certificates/CC-HSIAFMUU)
 
@@ -18,7 +18,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://kaggle.com/melodymoloti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="melodymoloti" height="30" width="40" /></a>
+<a href="https://www.freecodecamp.org/paradoxmelody" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="melodymoloti" height="30" width="40" /></a>
+<a href="https://www.freecodecamp.org/paradoxmelody" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="melodymoloti" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
