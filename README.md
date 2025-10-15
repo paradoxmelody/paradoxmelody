@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Paradox Melody</h1>
 <h3 align="center">I'm passionate about fullstack development, game development and data science.</h3>
 
-- 🔭 I’m currently working on **Myself**
+- 🔭 I’m currently working on **Nothing**
 
 - 🌱 I’m currently learning **Machine Learning, Typescript and others.**
 
