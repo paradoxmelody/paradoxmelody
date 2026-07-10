@@ -1,12 +1,12 @@
 [README.md](https://github.com/user-attachments/files/28242231/README.md)
 <h1 align="center">Hi 👋, I'm Paradox Melody</h1>
-<h3 align="center">A creative developer from Limpopo</h3>
+<h3 align="center">Just a geek who also makes art</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paradoxmelody&label=Profile%20views&color=0e75b6&style=flat" alt="paradoxmelody" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paradoxmelody" alt="paradoxmelody" /></a> </p>
 
-- 🌱 I’m currently learning **AI and Machine Learning**
+- 🌱 I’m currently learning **about the cloud (yes the clouds in the sky) **
 
 - 💬 Ask me about **FullStack Development**
 
