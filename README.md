@@ -1,6 +1,6 @@
 [README.md](https://github.com/user-attachments/files/28242231/README.md)
 <h1 align="center">Hi 👋, I'm Paradox Melody</h1>
-<h3 align="center">Just a geek who also makes art</h3>
+<h3 align="center">I love the creative process, making something out of nothing, but nothing is something, isn't it?</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paradoxmelody&label=Profile%20views&color=0e75b6&style=flat" alt="paradoxmelody" /> </p>
 
