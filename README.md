@@ -24,7 +24,7 @@
   <a href="https://github.com/paradoxmelody">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=paradoxmelody&cache_seconds=7200&layout=compact&theme=synthwave&border_radius=10" alt="paradoxmelody's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=paradoxmelody&theme=synthwave&hide_border=true&cache_seconds=86400" alt="paradoxmelody's GitHub Streak" width="49%" />
+   
 </p>
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=paradoxmelody&theme=synthwave&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Moloti Melody's GitHub Trophies" />
