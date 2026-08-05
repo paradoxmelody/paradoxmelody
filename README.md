@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:00000000,100:00000000&text=Melody%20Ugochukwu&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer&descSize=18&descAlignY=55&textBg=false">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1a1a2e,100:1a1a2e&text=Melody%20Ugochukwu&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer&descSize=18&descAlignY=55&textBg=false">
-  <img alt="Melody Ugochukwu banner" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1a1a2e,100:1a1a2e&text=Melody%20Ugochukwu&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Mathematics%Computer Science20&descSize=18&descAlignY=55&textBg=false">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:00000000,100:00000000&text=Melody%20Ugochukwu&fontSize=48&fontColor=000000&animation=twinkling&fontAlignY=35&desc=Software%20Engineer&descSize=18&descAlignY=55&textBg=false">
+  <img alt="Melody Ugochukwu banner" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:00000000,100:00000000&text=Melody%20Ugochukwu&fontSize=48&fontColor=000000&animation=twinkling&fontAlignY=35&desc=Mathematics%20Computer Science @UWC&descSize=18&descAlignY=55&textBg=false">
 </picture>
 
 <p align="center">
