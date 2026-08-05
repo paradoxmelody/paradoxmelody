@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:00000000,100:00000000&text=Melody%20Ugochukwu&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Explorer%20Creator&descSize=18&descAlignY=55&textBg=false"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:00000000,100:00000000&text=Melody%20Ugochukwu&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Explorer |%20Creator&descSize=18&descAlignY=55&textBg=false"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=%22Good%20is%20the%20enemy%20of%20great%22" alt="Typing introduction" />
