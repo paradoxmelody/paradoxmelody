@@ -1,4 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:00000000,100:00000000&text=Melody%20Ugochukwu&fontSize=48&fontColor=1a1a2e&animation=twinkling&fontAlignY=35&desc=Software%20Engineer&descSize=18&descAlignY=55&textBg=false"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:00000000,100:00000000&text=Melody%20Ugochukwu&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer&descSize=18&descAlignY=55&textBg=false">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1a1a2e,100:1a1a2e&text=Melody%20Ugochukwu&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer&descSize=18&descAlignY=55&textBg=false">
+  <img alt="Melody Ugochukwu banner" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1a1a2e,100:1a1a2e&text=Melody%20Ugochukwu&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Mathematics%Computer Science20&descSize=18&descAlignY=55&textBg=false">
+</picture>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=%22Good%20is%20the%20enemy%20of%20great%22" alt="Typing introduction" />
