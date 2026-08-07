@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:00000000,100:00000000&text=Melody%20Ugochukwu&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Creative%20Developer&descSize=18&descAlignY=55&textBg=false"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:00000000,100:00000000&text=Moloti%20Kgaphola&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Creative%20Developer&descSize=18&descAlignY=55&textBg=false"/>
 
  
 
